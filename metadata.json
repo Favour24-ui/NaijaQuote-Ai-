@@ -1,0 +1,6 @@
+{
+  "name": "AI Quotation Generator",
+  "description": "Professional AI-powered quotation generator for Nigerian businesses with secure authentication, customer management, client-side PDF export, and easy WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
